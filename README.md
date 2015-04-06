@@ -1,2 +1,2 @@
-# Projet_GuideTouristique_Android
+# MyApplication
 Application mobile android : guide touristique 
