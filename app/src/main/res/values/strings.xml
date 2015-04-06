@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tourism Guide</string>
+
+    <string name="hello_wahid">Hello Wahid First app !</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Update The TextView</string>
+    <string name="hint">a name</string>
+</resources>
